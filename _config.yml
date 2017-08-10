@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
+title: leon的学习流水账
 brief-intro: Front-end Dev Engineer
 baseurl: "/ga" # the subpath of your site, e.g. /blog
 url: "https://giboy2017.github.io/" # the base hostname & protocol for your site
@@ -14,16 +14,16 @@ url: "https://giboy2017.github.io/" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username: 
+facebook_username: 
+github_username:  giboy2017
+email: 
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: leon的学习流水账！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,8 +35,8 @@ disqus_shortname: gaohaoyang
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+#baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+#google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
