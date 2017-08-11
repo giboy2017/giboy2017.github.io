@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "在github 新建免费博客 2017年8月版本"
+title:  "一些 github page 设置及查看"
 categories: github
-tags:  github blog
+tags:  github confi setting
 author: leon
 ---
 
