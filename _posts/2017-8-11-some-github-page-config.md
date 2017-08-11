@@ -91,7 +91,7 @@ SimpleJekyllSearch({
     fuzzy: true,
     exclude: ['Welcome']
 });
-　```
+```
 css文件参考
 ```css
 #results-container a,.color-title:hover,.tooltip-inner,a{text-decoration:none}
