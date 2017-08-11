@@ -1,7 +1,7 @@
 #results-container a,.color-title:hover,.tooltip-inner,a{text-decoration:none}
 #results-container,#search-input{width:100%;background-color:#fafafa}
 #results-container
-{    position:relative;
+{   position:relative;
     left:0;
     top:2px;
     list-style:none;
@@ -14,6 +14,7 @@
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+    widht:95%;
 
 }
 #results-container li{padding:0 6px 0 16px;text-align:left;line-height:24px;position:relative}
@@ -34,3 +35,4 @@
     position: relative;
     width: 222px;
     margin-right: -15px;
+}
