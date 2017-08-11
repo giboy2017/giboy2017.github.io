@@ -55,3 +55,15 @@
 (function() {
   var demoItems = document.querySelectorAll('.grid-item')
 }());
+
+///js for search
+SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+    noResultsText: '',
+    limit: 6,
+    fuzzy: true,
+    exclude: ['Welcome']
+});
