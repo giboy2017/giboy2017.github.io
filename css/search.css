@@ -30,3 +30,7 @@
     line-height: 1;
     box-sizing: border-box;
 }
+#search-container {
+    position: relative;
+    width: 222px;
+    margin-right: -15px;
