@@ -11,13 +11,13 @@ author: leon
 
 此处省略注册流程
 
-#一  新建一个project
+# 一  新建一个project
 
 ![image](http://upload-images.jianshu.io/upload_images/6543272-f9c7dcbaf1813dc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image](http://upload-images.jianshu.io/upload_images/6543272-ff8b5138b52bb002.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#二  设置github page 并选择主题
+# 二  设置github page 并选择主题
 
 进入project页面并选择设置
 ![image](http://upload-images.jianshu.io/upload_images/6543272-5906cc509ece8e7e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -34,9 +34,9 @@ author: leon
 
 
 
-#三  下载主题并上传
+# 三  下载主题并上传
 
-##（1）下载主题
+## （1）下载主题
 
 进入http://jekyllthemes.org/  选择主题， 你会得到一个rar文件，打开里面就是博客主题的所有文件， 一般
 
@@ -53,7 +53,7 @@ _config.yml 是设置文件 ， 设置博客的目录 ， 主域名等
 
 
 
-##（2） 上传主题文件夹
+## （2） 上传主题文件夹
 
 可以在线上传也可以使用github 客户端上传
 ![image](http://upload-images.jianshu.io/upload_images/6543272-76eaa2b57fdfdf25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
