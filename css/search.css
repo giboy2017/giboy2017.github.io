@@ -1,7 +1,7 @@
 #results-container a,.color-title:hover,.tooltip-inner,a{text-decoration:none}
 #results-container,#search-input{width:100%;background-color:#fafafa}
 #results-container
-{    position:absolute;
+{    position:relative;
     left:0;
     top:28px;
     list-style:none;
