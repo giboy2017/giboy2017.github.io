@@ -5,5 +5,4 @@
 #results-container li:before{content:counter(li);counter-increment:li;position:absolute;left:6px;top:0}
 #results-container a,.color-title{color:inherit;transition:all .3s}
 #results-container li:hover{color:#252dff}
-
  
