@@ -62,3 +62,5 @@ paginate: 6
 #sitemap
 gems:
   - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
