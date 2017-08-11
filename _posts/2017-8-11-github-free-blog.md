@@ -47,6 +47,7 @@ index.html 是主页文件
 /post 是存放makedown格式 的博客文件
 
 _config.yml 是设置文件 ， 设置博客的目录 ， 主域名等
+
 ![image](http://upload-images.jianshu.io/upload_images/6543272-67cfbf8acd57ea2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
