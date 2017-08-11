@@ -1,9 +1,9 @@
 #results-container a,.color-title:hover,.tooltip-inner,a{text-decoration:none}
 #results-container,#search-input{width:100%;background-color:#fafafa}
 #results-container
-{   position:relative;
+{   position:absolute;
     left:0;
-    top:2px;
+    top:40px;
     list-style:none;
     margin:0;
     z-index:998;
