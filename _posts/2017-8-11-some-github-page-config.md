@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "在github 新建免费博客 2017年8月版本"
+categories: github
+tags:  github blog
+author: leon
+---
+
+* content
+{:toc}
+
 # 一 首页分隔符
 Jekyll has an option excerpt_separator, which is suitable for you. Things go like this:
 
