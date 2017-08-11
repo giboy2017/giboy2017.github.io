@@ -4,3 +4,5 @@ gemspec
 if ENV["JEKYLL_VERSION"]
   gem "jekyll", "~> #{ENV["JEKYLL_VERSION"]}"
 end
+
+gem 'jekyll-sitemap'
