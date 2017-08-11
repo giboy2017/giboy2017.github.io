@@ -170,7 +170,7 @@ gems: [jekyll-paginate]
   {% endif %}
 </div>
 ```
-# 五sitemap 文件
+# 五 sitemap 文件
 在跟目录新增sitemap.xml，内容为
 ```html
 ---
