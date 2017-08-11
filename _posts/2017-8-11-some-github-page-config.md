@@ -92,6 +92,47 @@ SimpleJekyllSearch({
     exclude: ['Welcome']
 });
 　```
+css文件参考
+```css
+#results-container a,.color-title:hover,.tooltip-inner,a{text-decoration:none}
+#results-container,#search-input{width:100%;background-color:#fafafa}
+#results-container
+{   position:absolute;
+    left:0;
+    top:40px;
+    list-style:none;
+    margin:0;
+    z-index:998;
+    padding-left:0;
+    border-radius:0 0 5px 5px;
+    box-shadow:0 0 1px #404040 inset;
+    counter-reset:li;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    widht:95%;
+
+}
+#results-container li{padding:0 6px 0 16px;text-align:left;line-height:24px;position:relative}
+#results-container li:before{content:counter(li);counter-increment:li;position:absolute;left:6px;top:0}
+#results-container a,.color-title{color:inherit;transition:all .3s}
+#results-container li:hover{color:#252dff}
+#search-input {
+    display: block;
+    padding: 6px 6px 6px 2px;
+    border: none;
+    border-bottom: 1px solid #a09090;
+    font-size: 12px;
+    outline: 0;
+    line-height: 1;
+    box-sizing: border-box;
+}
+#search-container {
+    position: relative;
+    width: 100%;
+    
+}
+```
 # 四 分页插件
 
 　　在 Jekyll 3 中，需要在 gems 中安装 jekyll-paginate 插件，并添加到 _config.yml 中，然后在 _config.yml 里边开启分页功能，格式如下：
