@@ -59,6 +59,4 @@ excerpt_separator: <!--more--> #separate post in index 首页分隔符
 gems: [jekyll-paginate]
 paginate: 6
 
-#sitemap
-gems:  [jekyll-sitemap]
-plugins: [jekyll-sitemap]
+
