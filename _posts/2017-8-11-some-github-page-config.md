@@ -91,6 +91,7 @@ SimpleJekyllSearch({
     fuzzy: true,
     exclude: ['Welcome']
 });
+
 ```
 css文件参考
 ```css
