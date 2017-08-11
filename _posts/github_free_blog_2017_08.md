@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "在github 新建免费博客 2017年8月版本"
+categories: github
+tags:  github blog
+author: leon
+---
+
+* content
+{:toc}
+
 此处省略注册流程
 
 一  新建一个project
